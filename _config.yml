@@ -1,0 +1,9 @@
+title: Atlas Clinic Automation
+description: Information for Atlas Internal Medicine's private QuickBooks integration
+theme: minima
+header_pages:
+  - privacy/index.md
+  - terms/index.md
+  - connect/index.md
+  - disconnected/index.md
+
